@@ -17,6 +17,8 @@ export class App extends Component {
     this.state = {
       locationinformation: '',
       error: false,
+      weatherData:'',
+      movieData:''
 
     };
   }
